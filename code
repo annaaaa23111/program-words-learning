@@ -24,6 +24,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
              Form2 form2 = new Form2();
+            this.Hide();
             form2.Show();
         }
 
@@ -53,18 +54,21 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form3 form3 = new Form3();
+            this.Hide();
             form3.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             german form4 = new german();
+            this.Hide();
             form4.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Form5 form5 = new Form5();
+            this.Hide();
             form5.Show();
         }
 
@@ -100,6 +104,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form7 form7 = new Form7();
+            this.Hide();
             form7.Show();
         }
 
@@ -155,6 +160,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form8 form8 = new Form8();
+            this.Hide();
             form8.Show();
         }
 
@@ -215,6 +221,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form9 form9 = new Form9();
+            this.Hide();
             form9.Show();
         }
     }
@@ -270,6 +277,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form16 form16 = new Form16();
+            this.Hide();
             form16.Show();
         }
     }
@@ -284,6 +292,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form10 form10 = new Form10();
+            this.Hide();
             form10.Show();
         }
 
@@ -344,6 +353,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form11 form11 = new Form11();
+            this.Hide();
             form11.Show();
         }
     }
@@ -404,6 +414,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form12 form12 = new Form12();
+            this.Hide();
             form12.Show();
         }
     }
@@ -459,6 +470,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form16 form16 = new Form16();
+            this.Hide();
             form16.Show();
         }
     }
@@ -473,6 +485,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form13 form13 = new Form13();
+            this.Hide();
             form13.Show();
         }
 
@@ -533,6 +546,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form14 form14 = new Form14();
+            this.Hide();
             form14.Show();
         }
     }
@@ -583,6 +597,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form15 form15 = new Form15();
+            this.Hide();
             form15.Show();
         }
     }
@@ -633,6 +648,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form16 form16 = new Form16();
+            this.Hide();
             form16.Show();
         }
     }
@@ -652,6 +668,7 @@ Namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 form2 = new Form2();
+            this.Hide();
             form2.Show();
         }
     }
