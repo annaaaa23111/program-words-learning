@@ -141,7 +141,7 @@ Namespace WindowsFormsApp1
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox2.Checked)
+            if (checkBox3.Checked)
             {
                 MessageBox.Show("Неправильно", "Результат", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 checkBox3.Checked = false; 
@@ -150,7 +150,7 @@ Namespace WindowsFormsApp1
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox2.Checked)
+            if (checkBox4.Checked)
             {
                 MessageBox.Show("Неправильно", "Результат", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 checkBox4.Checked = false; 
